@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: rgb(140, 0, 0);
+    padding: 20px 0;
+    font-family: Arial;
+    color: white;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.container{
+    padding: 20px;
+}
+
+h2{
+    font-family: Arial;
+    text-transform: capitalize;
+    font-style: italic;
+}
+
+p{
+   text-wrap: balance;
+   text-align: justify;
+   margin: 0;
+}
+
+a{
+    color: rgb(74, 116, 176);
+}
+
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-family: Arial;
+    font-style: italic;
+    font-size: small;
+}
